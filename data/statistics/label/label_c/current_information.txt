@@ -1,0 +1,1 @@
+:set_one, 'If room is number 9 this can warp to rooms 3 and 3.', 'If room is number 15 this can warp to rooms 5 and 3.', 'If room is number 21 this can warp to rooms 7 and 3.'

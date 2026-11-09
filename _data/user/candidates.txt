@@ -1,3 +1,3 @@
-(hlim 2 :red red :green green :blue blue)
-(hlim 2 :lure lure :stun stun :trap trap)
-(hlim 2 :pomme pomme :banane banane :citrone citrone)
+(cfs :red red :green green :blue blue)
+(cfs :lure lure :stun stun :trap trap)
+(cfs :pomme pomme :banane banane :citrone citrone)
